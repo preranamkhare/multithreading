@@ -1,4 +1,4 @@
-Extract the given tarball and cd to the 360t directory.
+Extract the given tarball and cd to a directory.
 Where is code?
 The cpp files are in src and .h files are under in include directories.
 
